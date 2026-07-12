@@ -1,0 +1,17 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/resources/ffmpeg/
+
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+.env
+.env.*
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
