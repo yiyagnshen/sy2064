@@ -28,6 +28,7 @@
   "bundle": {
     "active": true,
     "targets": "all",
+    "resources": ["resources/ffmpeg/ffmpeg.exe"],
     "windows": {
       "webviewInstallMode": {
         "type": "downloadBootstrapper",
