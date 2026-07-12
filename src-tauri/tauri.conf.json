@@ -1,7 +1,7 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "很高兴为您服务",
-  "version": "0.1.0",
+  "productName": "V",
+  "version": "1.2.0",
   "identifier": "com.vpro.video-batch-tool",
   "build": {
     "beforeDevCommand": "npm run dev",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "很高兴为您服务",
+        "title": "V",
         "width": 1280,
         "height": 860,
         "minWidth": 960,
